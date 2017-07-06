@@ -1,0 +1,17 @@
+{
+  "name": "fileslist",
+  "version": "1.0.0",
+  "description": "Get list of files and directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jsbisht",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "mock-fs": "^4.4.1"
+  },
+  "dependencies": {}
+}
